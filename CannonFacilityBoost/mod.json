@@ -1,0 +1,10 @@
+{
+  "id": "afmodder.cannon-facility-boost",
+  "name": "Cannon Facility Boost",
+  "version": "1.0.0",
+  "author": "metrix",
+  "description": "Increases cannon facility ranges and related defaults.",
+  "type": "lua",
+  "tags": ["alchemy-factory", "ue4ss", "cannon", "balance", "qol"],
+  "homepage": "https://github.com/AFModder/mods/tree/main/CannonFacilityBoost"
+}
