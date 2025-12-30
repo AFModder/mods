@@ -1,0 +1,11 @@
+{
+  "id": "afmodder.auto-sort-inventory",
+  "name": "Auto Sort Inventory",
+  "version": "1.0.0",
+  "author": "metrix",
+  "description": "Auto-sorts the player inventory using the game's built-in RearrangePlayerInventory(). Includes hotkeys to sort now and toggle auto mode.",
+  "type": "lua",
+  "tags": ["alchemy-factory", "ue4ss", "inventory", "qol"],
+  "homepage": "https://github.com/AFModder/mods"
+}
+
