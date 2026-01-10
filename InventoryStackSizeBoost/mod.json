@@ -1,0 +1,10 @@
+{
+  "id": "afmodder.inventory-stack-size-boost",
+  "name": "Inventory Stack Size Boost",
+  "version": "1.0.0",
+  "author": "local",
+  "description": "Increases inventory stack sizes by overriding the game's maximum-stack calculation.",
+  "type": "dll",
+  "tags": ["alchemy-factory", "ue4ss", "inventory", "qol"],
+  "homepage": ""
+}
